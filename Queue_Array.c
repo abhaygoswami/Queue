@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define max 10
+//global Declaration
 int queue[max];
 int front=-1,rear=-1;
 
