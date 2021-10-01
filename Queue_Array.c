@@ -37,7 +37,7 @@ void add()
 {
   int n;
   printf("\nEnter The Number: ");
-  scanf("%d",&n);
+  scanf("%d",&n); // take input
 
   if(rear==max-1)
   printf("\nStack is Overflow");
